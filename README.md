@@ -56,7 +56,7 @@ NileFlow-Pay-Analytics/
 
 | Layer | Tools | Purpose |
 |---|---|---|
-| **Data Cleaning & Preprocessing** | Python, Pandas, NumPy, Jupyter Notebook | Handling missing values, type correction, restructuring raw data |
+| | **Data Cleaning & Preprocessing** | Python, Pandas, NumPy (VS Code / Jupyter Notebook) | Handling missing values, type correction, restructuring raw data |
 | **Data Modeling** | Power BI (Power Query, DAX) | Building relationships, calculated columns, and measures |
 | **Visualization** | Power BI Desktop | Multi-page interactive dashboard design |
 | **Branding & Design** | AI-assisted design tools | Conceptual logo and visual identity for presentation |
@@ -120,7 +120,7 @@ The dataset was structured into a clean relational model within Power BI, connec
 ## ⚙️ How to Explore This Project
 
 1. Clone or download this repository.
-2. Open `cleaning_python.ipynb` in Jupyter Notebook to review the data cleaning workflow.
+2. Open `cleaning_python.ipynb` in **VS Code** or Jupyter Notebook to review the data cleaning workflow.
 3. Open `NILEFLOW.pbix` in **Power BI Desktop** to explore the interactive dashboard.
 4. Browse `dashboard_screenshots/` for a quick visual preview without opening Power BI.
 
