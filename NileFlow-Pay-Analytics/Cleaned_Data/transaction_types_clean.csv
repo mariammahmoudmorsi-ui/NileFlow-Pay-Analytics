@@ -1,0 +1,13 @@
+transaction_type_id,transaction_type_en,transaction_type_ar,category,fee_model,base_fee_egp,variable_fee_rate,merchant_required
+TT01,Merchant Payment,دفع لدى تاجر,Payment,Percent,0.0,0.012,1
+TT02,QR Payment,دفع QR,Payment,Percent,0.0,0.009,1
+TT03,Online Checkout,دفع أونلاين,Payment,Percent,0.0,0.018,1
+TT04,P2P Transfer,تحويل بين المحافظ,Transfer,Mixed,1.0,0.0015,0
+TT05,Cash In,إيداع نقدي,Cash,Fixed,0.0,0.0,0
+TT06,Cash Out,سحب نقدي,Cash,Mixed,1.0,0.01,0
+TT07,Bill Payment,دفع فواتير,Bills,Fixed,1.5,0.0,0
+TT08,Mobile Recharge,شحن رصيد,Bills,Fixed,0.75,0.0,0
+TT09,Subscription Payment,اشتراكات,Payment,Percent,0.0,0.01,1
+TT10,Government Payment,مدفوعات حكومية,Bills,Mixed,2.0,0.003,0
+TT11,Refund,استرداد,Adjustment,Fixed,0.0,0.0,1
+TT12,Card to Wallet,شحن المحفظة بالبطاقة,Funding,Percent,0.0,0.006,0

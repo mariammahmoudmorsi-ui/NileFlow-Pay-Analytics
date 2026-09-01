@@ -1,0 +1,181 @@
+location_id,governorate,city_zone,region,area_type
+L0001,Cairo,Nasr City,Greater Cairo,Urban
+L0002,Cairo,Heliopolis,Greater Cairo,Urban
+L0003,Cairo,Maadi,Greater Cairo,Urban
+L0004,Cairo,New Cairo,Greater Cairo,Urban
+L0005,Cairo,Downtown,Greater Cairo,Urban
+L0006,Cairo,Shubra,Greater Cairo,Urban
+L0007,Cairo,Mokattam,Greater Cairo,Urban
+L0008,Cairo,Ain Shams,Greater Cairo,Urban
+L0009,Giza,Dokki,Greater Cairo,Urban
+L0010,Giza,Mohandessin,Greater Cairo,Urban
+L0011,Giza,6th of October,Greater Cairo,Urban
+L0012,Giza,Sheikh Zayed,Greater Cairo,Urban
+L0013,Giza,Haram,Greater Cairo,Urban
+L0014,Giza,Faisal,Greater Cairo,Urban
+L0015,Giza,Imbaba,Greater Cairo,Urban
+L0016,Alexandria,Smouha,Alexandria & Coast,Urban
+L0017,Alexandria,Sidi Gaber,Alexandria & Coast,Urban
+L0018,Alexandria,Miami,Alexandria & Coast,Urban
+L0019,Alexandria,Stanley,Alexandria & Coast,Urban
+L0020,Alexandria,Borg El Arab,Alexandria & Coast,Urban
+L0021,Alexandria,Agami,Alexandria & Coast,Urban
+L0022,Dakahlia,Mansoura,Delta,Urban
+L0023,Dakahlia,Talkha,Delta,Urban
+L0024,Dakahlia,Mit Ghamr,Delta,Urban
+L0025,Dakahlia,Aga,Delta,Urban
+L0026,Dakahlia,Belqas,Delta,Urban
+L0027,Sharqia,Zagazig,Delta,Urban
+L0028,Sharqia,10th of Ramadan,Delta,Urban
+L0029,Sharqia,Belbeis,Delta,Urban
+L0030,Sharqia,Abu Hammad,Delta,Urban
+L0031,Sharqia,Minya Al Qamh,Delta,Urban
+L0032,Gharbia,Tanta,Delta,Urban
+L0033,Gharbia,El Mahalla El Kubra,Delta,Urban
+L0034,Gharbia,Kafr El Zayat,Delta,Urban
+L0035,Gharbia,Zefta,Delta,Urban
+L0036,Qalyubia,Banha,Greater Cairo,Urban
+L0037,Qalyubia,Shubra El Kheima,Greater Cairo,Urban
+L0038,Qalyubia,Qalyub,Greater Cairo,Urban
+L0039,Qalyubia,Obour,Greater Cairo,Urban
+L0040,Qalyubia,Khanka,Greater Cairo,Urban
+L0041,Monufia,Shebin El Kom,Delta,Urban
+L0042,Monufia,Sadat City,Delta,Urban
+L0043,Monufia,Menouf,Delta,Urban
+L0044,Monufia,Ashmoun,Delta,Urban
+L0045,Beheira,Damanhur,Alexandria & Coast,Urban
+L0046,Beheira,Kafr El Dawwar,Alexandria & Coast,Urban
+L0047,Beheira,Rashid,Alexandria & Coast,Urban
+L0048,Beheira,Nubaria,Alexandria & Coast,Urban
+L0049,Kafr El Sheikh,Kafr El Sheikh,Delta,Urban
+L0050,Kafr El Sheikh,Desouk,Delta,Urban
+L0051,Kafr El Sheikh,Baltim,Delta,Urban
+L0052,Kafr El Sheikh,Sidi Salem,Delta,Urban
+L0053,Damietta,Damietta,Delta,Urban
+L0054,Damietta,New Damietta,Delta,Urban
+L0055,Damietta,Ras El Bar,Delta,Urban
+L0056,Damietta,Faraskour,Delta,Urban
+L0057,Port Said,Port Said,Canal,Urban
+L0058,Port Said,Port Fouad,Canal,Urban
+L0059,Ismailia,Ismailia,Canal,Urban
+L0060,Ismailia,Fayed,Canal,Urban
+L0061,Ismailia,Qantara,Canal,Urban
+L0062,Suez,Suez,Canal,Urban
+L0063,Suez,Ain Sokhna,Canal,Urban
+L0064,Fayoum,Fayoum,Upper Egypt,Urban
+L0065,Fayoum,Sinnuris,Upper Egypt,Urban
+L0066,Fayoum,Ibshaway,Upper Egypt,Urban
+L0067,Beni Suef,Beni Suef,Upper Egypt,Urban
+L0068,Beni Suef,New Beni Suef,Upper Egypt,Urban
+L0069,Beni Suef,Nasser,Upper Egypt,Urban
+L0070,Minya,Minya,Upper Egypt,Urban
+L0071,Minya,Mallawi,Upper Egypt,Urban
+L0072,Minya,Samalut,Upper Egypt,Urban
+L0073,Minya,Beni Mazar,Upper Egypt,Urban
+L0074,Assiut,Assiut,Upper Egypt,Urban
+L0075,Assiut,New Assiut,Upper Egypt,Urban
+L0076,Assiut,Dairut,Upper Egypt,Urban
+L0077,Assiut,Manfalut,Upper Egypt,Urban
+L0078,Sohag,Sohag,Upper Egypt,Urban
+L0079,Sohag,Akhmim,Upper Egypt,Urban
+L0080,Sohag,Girga,Upper Egypt,Urban
+L0081,Sohag,Tahta,Upper Egypt,Urban
+L0082,Qena,Qena,Upper Egypt,Urban
+L0083,Qena,Nag Hammadi,Upper Egypt,Urban
+L0084,Qena,Qus,Upper Egypt,Urban
+L0085,Luxor,Luxor,Upper Egypt,Urban
+L0086,Luxor,Esna,Upper Egypt,Urban
+L0087,Luxor,Armant,Upper Egypt,Urban
+L0088,Aswan,Aswan,Upper Egypt,Urban
+L0089,Aswan,Kom Ombo,Upper Egypt,Urban
+L0090,Aswan,Edfu,Upper Egypt,Urban
+L0091,Red Sea,Hurghada,Frontier,Urban
+L0092,Red Sea,Safaga,Frontier,Urban
+L0093,Red Sea,Marsa Alam,Frontier,Urban
+L0094,New Valley,Kharga,Frontier,Urban
+L0095,New Valley,Dakhla,Frontier,Mixed
+L0096,Matrouh,Marsa Matrouh,Alexandria & Coast,Urban
+L0097,Matrouh,El Alamein,Alexandria & Coast,Urban
+L0098,Matrouh,Siwa,Alexandria & Coast,Mixed
+L0099,North Sinai,Arish,Frontier,Urban
+L0100,North Sinai,Bir El Abd,Frontier,Mixed
+L0101,South Sinai,Sharm El Sheikh,Frontier,Urban
+L0102,South Sinai,Dahab,Frontier,Urban
+L0103,South Sinai,El Tor,Frontier,Urban
+L0104,Cairo,Nasr City - Central,Greater Cairo,Urban
+L0105,Cairo,Heliopolis - Central,Greater Cairo,Urban
+L0106,Cairo,Maadi - Central,Greater Cairo,Urban
+L0107,Cairo,New Cairo - Central,Greater Cairo,Urban
+L0108,Cairo,Downtown - Central,Greater Cairo,Urban
+L0109,Cairo,Shubra - Central,Greater Cairo,Urban
+L0110,Cairo,Mokattam - Central,Greater Cairo,Urban
+L0111,Cairo,Ain Shams - Central,Greater Cairo,Urban
+L0112,Giza,Dokki - Central,Greater Cairo,Urban
+L0113,Giza,Mohandessin - Central,Greater Cairo,Urban
+L0114,Giza,6th of October - Central,Greater Cairo,Urban
+L0115,Giza,Sheikh Zayed - Central,Greater Cairo,Urban
+L0116,Giza,Haram - Central,Greater Cairo,Urban
+L0117,Giza,Faisal - Central,Greater Cairo,Urban
+L0118,Giza,Imbaba - Central,Greater Cairo,Urban
+L0119,Alexandria,Smouha - Central,Alexandria & Coast,Urban
+L0120,Alexandria,Sidi Gaber - Central,Alexandria & Coast,Urban
+L0121,Alexandria,Miami - Central,Alexandria & Coast,Urban
+L0122,Alexandria,Stanley - Central,Alexandria & Coast,Urban
+L0123,Alexandria,Borg El Arab - Central,Alexandria & Coast,Urban
+L0124,Alexandria,Agami - Central,Alexandria & Coast,Urban
+L0125,Dakahlia,Mansoura - Central,Delta,Urban
+L0126,Dakahlia,Talkha - Central,Delta,Urban
+L0127,Dakahlia,Mit Ghamr - Central,Delta,Urban
+L0128,Dakahlia,Aga - Central,Delta,Urban
+L0129,Dakahlia,Belqas - Central,Delta,Urban
+L0130,Sharqia,Zagazig - Central,Delta,Urban
+L0131,Sharqia,10th of Ramadan - Central,Delta,Urban
+L0132,Sharqia,Belbeis - Central,Delta,Urban
+L0133,Sharqia,Abu Hammad - Central,Delta,Urban
+L0134,Sharqia,Minya Al Qamh - Central,Delta,Urban
+L0135,Gharbia,Tanta - Central,Delta,Urban
+L0136,Gharbia,El Mahalla El Kubra - Central,Delta,Urban
+L0137,Gharbia,Kafr El Zayat - Central,Delta,Urban
+L0138,Gharbia,Zefta - Central,Delta,Urban
+L0139,Qalyubia,Banha - Central,Greater Cairo,Urban
+L0140,Qalyubia,Shubra El Kheima - Central,Greater Cairo,Urban
+L0141,Qalyubia,Qalyub - Central,Greater Cairo,Urban
+L0142,Qalyubia,Obour - Central,Greater Cairo,Urban
+L0143,Qalyubia,Khanka - Central,Greater Cairo,Urban
+L0144,Monufia,Shebin El Kom - Central,Delta,Urban
+L0145,Monufia,Sadat City - Central,Delta,Urban
+L0146,Monufia,Menouf - Central,Delta,Urban
+L0147,Monufia,Ashmoun - Central,Delta,Urban
+L0148,Beheira,Damanhur - Central,Alexandria & Coast,Urban
+L0149,Beheira,Kafr El Dawwar - Central,Alexandria & Coast,Urban
+L0150,Beheira,Rashid - Central,Alexandria & Coast,Urban
+L0151,Beheira,Nubaria - Central,Alexandria & Coast,Urban
+L0152,Kafr El Sheikh,Kafr El Sheikh - Central,Delta,Urban
+L0153,Kafr El Sheikh,Desouk - Central,Delta,Urban
+L0154,Kafr El Sheikh,Baltim - Central,Delta,Urban
+L0155,Kafr El Sheikh,Sidi Salem - Central,Delta,Urban
+L0156,Damietta,Damietta - Central,Delta,Urban
+L0157,Damietta,New Damietta - Central,Delta,Urban
+L0158,Damietta,Ras El Bar - Central,Delta,Urban
+L0159,Damietta,Faraskour - Central,Delta,Urban
+L0160,Port Said,Port Said - Central,Canal,Urban
+L0161,Port Said,Port Fouad - Central,Canal,Urban
+L0162,Ismailia,Ismailia - Central,Canal,Urban
+L0163,Ismailia,Fayed - Central,Canal,Urban
+L0164,Ismailia,Qantara - Central,Canal,Urban
+L0165,Suez,Suez - Central,Canal,Urban
+L0166,Suez,Ain Sokhna - Central,Canal,Urban
+L0167,Fayoum,Fayoum - Central,Upper Egypt,Urban
+L0168,Fayoum,Sinnuris - Central,Upper Egypt,Urban
+L0169,Fayoum,Ibshaway - Central,Upper Egypt,Urban
+L0170,Beni Suef,Beni Suef - Central,Upper Egypt,Urban
+L0171,Beni Suef,New Beni Suef - Central,Upper Egypt,Urban
+L0172,Beni Suef,Nasser - Central,Upper Egypt,Urban
+L0173,Minya,Minya - Central,Upper Egypt,Urban
+L0174,Minya,Mallawi - Central,Upper Egypt,Urban
+L0175,Minya,Samalut - Central,Upper Egypt,Urban
+L0176,Minya,Beni Mazar - Central,Upper Egypt,Urban
+L0177,Assiut,Assiut - Central,Upper Egypt,Urban
+L0178,Assiut,New Assiut - Central,Upper Egypt,Urban
+L0179,Assiut,Dairut - Central,Upper Egypt,Urban
+L0180,Assiut,Manfalut - Central,Upper Egypt,Urban
